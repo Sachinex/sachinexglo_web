@@ -109,8 +109,13 @@ button.btn-secondary:hover{
 }
 
 .top-nav{
-	background-color: #ffffff !important;
+	background-color: #080000 !important;
 }
+
+.navb {
+	color: #979c99;
+}
+
 .navbar-expand-lg.top-nav .navbar-nav .nav-link{
 	padding: 10px 15px;
 	color: #323232;
