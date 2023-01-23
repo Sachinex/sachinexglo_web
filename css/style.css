@@ -9,7 +9,7 @@ body {
   padding: 0px;
   font-family: 'Work Sans', sans-serif;
   font-size: 15px;
-  color: #323232;
+  color: #050404;
 }
 
 @media (min-width: 992px) {
@@ -18,6 +18,9 @@ body {
   }
 }
 
+.nav-name{
+	color: #202428;
+}
 a.btn-primary{
 	background-color: #1273eb;
 	border-color: #1273eb;
